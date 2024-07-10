@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balar\\source\\repos\\MyTasks\\MyTasks\\MyTasks.csproj": {}
+    "C:\\Users\\balar\\source\\repos\\MyTasks-MAUI-\\MyTasks\\MyTasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balar\\source\\repos\\MyTasks\\MyTasks\\MyTasks.csproj": {
+    "C:\\Users\\balar\\source\\repos\\MyTasks-MAUI-\\MyTasks\\MyTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balar\\source\\repos\\MyTasks\\MyTasks\\MyTasks.csproj",
+        "projectUniqueName": "C:\\Users\\balar\\source\\repos\\MyTasks-MAUI-\\MyTasks\\MyTasks.csproj",
         "projectName": "MyTasks",
-        "projectPath": "C:\\Users\\balar\\source\\repos\\MyTasks\\MyTasks\\MyTasks.csproj",
+        "projectPath": "C:\\Users\\balar\\source\\repos\\MyTasks-MAUI-\\MyTasks\\MyTasks.csproj",
         "packagesPath": "C:\\Users\\balar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balar\\source\\repos\\MyTasks\\MyTasks\\obj\\",
+        "outputPath": "C:\\Users\\balar\\source\\repos\\MyTasks-MAUI-\\MyTasks\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -66,6 +66,10 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -109,6 +113,10 @@
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -152,6 +160,10 @@
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -196,6 +208,10 @@
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"

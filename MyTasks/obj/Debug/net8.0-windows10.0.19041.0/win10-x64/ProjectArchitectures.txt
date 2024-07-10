@@ -1,1 +1,1 @@
-C:\Users\balar\source\repos\MyTasks\MyTasks\MyTasks.csproj;x64
+C:\Users\balar\source\repos\MyTasks-MAUI-\MyTasks\MyTasks.csproj;x64
